@@ -4,34 +4,24 @@
 //22 3 9 -> 22
 
 Console.WriteLine("введите первое число: ");
-int number1 = int.Parse(Console.ReadLine());
+int a1 = int.Parse(Console.ReadLine());
 Console.WriteLine("введите второе число: ");
-int number2 = int.Parse(Console.ReadLine());
+int a2 = int.Parse(Console.ReadLine());
 Console.WriteLine("введите трейтее число: ");
-int number3 = int.Parse(Console.ReadLine());
-int Mmax = number1;
+int a3 = int.Parse(Console.ReadLine());
+int max = a1;
 
-if (number1 > number2) 
+if(a1 > max) 
 {
-    number1 = Mmax;
+    max = a1;
 }
-else
+if(a2 > max)
 {
-    number2 = Mmax;
+    max = a2;
 }
-if (number2 > number3)
+if(a3 > max) 
 {
-    number2 = Mmax;
+    max = a3;
 }
-else
-{
-    number3 = Mmax;
-}
-if (number3 > number1)
-{
-    number3 = Mmax;
-}
-else
-{
-    number1 = Mmax;
-}
+Console.WriteLine("максимальное число: ");
+Console.WriteLine(max);
