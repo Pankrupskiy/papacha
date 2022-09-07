@@ -3,7 +3,7 @@
 //782 -> 72
 //918 -> 98
 int num = new Random().Next(100,999);
-int f = num/100; 4
-int m = num/10; 45
-int l = num - m * 10; 6       4        6
+int f = num/100;
+int m = num/10;
+int l = num - m * 10;
 Console.WriteLine($"{num} -> {f * 10 + l} ");
