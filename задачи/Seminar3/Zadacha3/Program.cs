@@ -6,13 +6,18 @@
 
 Console.Write("Введите координату X первой точки: ");
 int x1 = int.Parse(Console.ReadLine());
+
 Console.Write("Введите координату Y первой точки: ");
 int y1 = int.Parse(Console.ReadLine());
+
 Console.Write("Введите координату X второй точки: ");
 int x2 = int.Parse(Console.ReadLine());
+
 Console.Write("Введите координату Y второй точки: ");
 int y2 = int.Parse(Console.ReadLine());
 
-Console.WriteLine($"Длина отрезка = {Math.Round(Math.Sqrt((x1 - x2)*(x1 - x2) + (y1 - y2)*(y1 - y2)),2)}");
+Console.WriteLine($"Длина отрезка = {Math.Sqrt((x1 - x2)*(x1-x2)+(y1 - y2)*(y1-y2))}");
+
+//Console.WriteLine($"Длина отрезка = {Math.Round(Math.Sqrt(Math.Pow((x1 - x2),2) + Math.Pow((y1 - y2),2)), 2)}");
 
 
