@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\Praktika.csproj": {}
+    "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\Zadacha2\\Zadacha2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\Praktika.csproj": {
+    "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\Zadacha2\\Zadacha2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\Praktika.csproj",
-        "projectName": "Praktika",
-        "projectPath": "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\Praktika.csproj",
+        "projectUniqueName": "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\Zadacha2\\Zadacha2.csproj",
+        "projectName": "Zadacha2",
+        "projectPath": "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\Zadacha2\\Zadacha2.csproj",
         "packagesPath": "C:\\Users\\Нагибатор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\obj\\",
+        "outputPath": "C:\\Users\\Нагибатор\\OneDrive\\Рабочий стол\\ДЗ\\задачи\\Seminar3\\Praktika\\Zadacha2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Нагибатор\\AppData\\Roaming\\NuGet\\NuGet.Config"

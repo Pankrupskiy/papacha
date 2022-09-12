@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Praktika/1.0.0": {
+      "Zadacha2/1.0.0": {
         "runtime": {
-          "Praktika.dll": {}
+          "Zadacha2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Praktika/1.0.0": {
+    "Zadacha2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
