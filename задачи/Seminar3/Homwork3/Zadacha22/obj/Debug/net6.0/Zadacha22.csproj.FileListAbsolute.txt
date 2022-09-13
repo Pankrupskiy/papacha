@@ -1,0 +1,15 @@
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\Zadacha22.csproj.AssemblyReference.cache
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\Zadacha22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\Zadacha22.AssemblyInfoInputs.cache
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\Zadacha22.AssemblyInfo.cs
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\Zadacha22.csproj.CoreCompileInputs.cache
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\bin\Debug\net6.0\Zadacha22.exe
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\bin\Debug\net6.0\Zadacha22.deps.json
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\bin\Debug\net6.0\Zadacha22.runtimeconfig.json
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\bin\Debug\net6.0\Zadacha22.dll
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\bin\Debug\net6.0\Zadacha22.pdb
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\Zadacha22.dll
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\refint\Zadacha22.dll
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\Zadacha22.pdb
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\Zadacha22.genruntimeconfig.cache
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar3\Homwork3\Zadacha22\obj\Debug\net6.0\ref\Zadacha22.dll
