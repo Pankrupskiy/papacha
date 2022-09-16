@@ -7,6 +7,17 @@ Console.WriteLine("Введите первое число: ");
 int num1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе число число: ");
 int num2 = int.Parse(Console.ReadLine());
-int stepen = num2;
 
-Console.WriteLine($"Числа: {num1},{num2} -> {(Math.Sqrt(num1*num1*num1*num1*num1))(Math.Pow(num1,stepen))}");
+
+int Multiplication(int a, int b);
+{
+    int multi =1;
+    int index =1;
+    while(index <= b )
+    {
+        multi = multi * a;
+        index++;
+    }
+    return multi;
+}
+Console.WriteLine($"{num1}, {num2} -> {(num1 , num2)} ");
