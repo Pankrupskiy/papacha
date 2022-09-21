@@ -1,0 +1,15 @@
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\bin\Debug\net6.0\Zadacha35.exe
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\bin\Debug\net6.0\Zadacha35.deps.json
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\bin\Debug\net6.0\Zadacha35.runtimeconfig.json
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\bin\Debug\net6.0\Zadacha35.dll
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\bin\Debug\net6.0\Zadacha35.pdb
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\Zadacha35.csproj.AssemblyReference.cache
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\Zadacha35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\Zadacha35.AssemblyInfoInputs.cache
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\Zadacha35.AssemblyInfo.cs
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\Zadacha35.csproj.CoreCompileInputs.cache
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\Zadacha35.dll
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\refint\Zadacha35.dll
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\Zadacha35.pdb
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\Zadacha35.genruntimeconfig.cache
+C:\Users\Нагибатор\OneDrive\Рабочий стол\ДЗ\задачи\Seminar5\HOMWORK5\Zadacha35\obj\Debug\net6.0\ref\Zadacha35.dll

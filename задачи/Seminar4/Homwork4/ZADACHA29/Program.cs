@@ -19,7 +19,7 @@ int ColSchisel (int number1)
 
 int a1 = ColSchisel(a);
 
-int SumChisel (int kol2; int number1 );
+int SumNumber (int kol2; int number1 );
 {
     int Index = 1;
     int sum = 0;
@@ -33,7 +33,7 @@ int SumChisel (int kol2; int number1 );
 
 }
 
-Console.WriteLine($"{a} -> {SumChisel(a1, a)}");
+Console.WriteLine($"{a} -> {SumNumber(a1, a)}");
 
 
 
